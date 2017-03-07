@@ -19,7 +19,7 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 * Supplier database
 * Supplier notification of a sale
 * Receipts
-* Natural language recognition
+* NLP for text
 
 **Marketing Features**
 
@@ -32,6 +32,8 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 * Shipping carrier
 * Suppliers
 * General customer agreement
+
+
 
 
 

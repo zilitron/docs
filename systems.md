@@ -37,7 +37,7 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 **Corporate Features**
 
 * Accounting
-* Capital?
+* Capital
 * Hiring or HR
 * Cultivating culture
 * Customer Service \(should be at the top of list\)

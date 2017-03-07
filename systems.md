@@ -18,8 +18,9 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 * Customer database
 * Supplier database
 * Supplier notification of a sale
-* Receipts
+* Receipts for customers and suppliers
 * NLP for text
+* Secure server
 
 **Marketing Features**
 
@@ -33,7 +34,12 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 * Suppliers
 * General customer agreement
 
+**Corporate**
 
+* Accounting
+* Capital?
+* Hiring
+* Cultivating culture
 
 
 

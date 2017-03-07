@@ -8,7 +8,7 @@ A couple of options to consider:
 
 We can do it either way, but we need to tailor based on team's T-skills. Ensure we run a retrospective after each sprint.
 
-Features
+**Technical** **Features**
 
 * Web Input
 * Efficient Search
@@ -17,6 +17,23 @@ Features
 * Secure $$$ transfers \(in/out\)
 * Customer database
 * Supplier database
+* Supplier notification of a sale
+* Receipts
+* Natural language recognition
+
+**Marketing Features**
+
+* Trademark design
+* Google Search / Google Ads
+
+**Contracts/Legal**
+
+* Internal organization
+* shipping carrier
+* suppliers
+* general customer agreement
+
+
 
 
 

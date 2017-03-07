@@ -27,14 +27,14 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 * Trademark design
 * Google Search / Google Ads
 
-**Contracts/Legal**
+**Contracts/Legal Features**
 
 * Internal organization
 * Shipping carrier
 * Suppliers
 * General customer agreement
 
-**Corporate**
+**Corporate Features**
 
 * Accounting
 * Capital?

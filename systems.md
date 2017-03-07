@@ -29,11 +29,9 @@ We can do it either way, but we need to tailor based on team's T-skills. Ensure 
 **Contracts/Legal**
 
 * Internal organization
-* shipping carrier
-* suppliers
-* general customer agreement
-
-
+* Shipping carrier
+* Suppliers
+* General customer agreement
 
 
 

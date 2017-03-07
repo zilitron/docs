@@ -35,11 +35,18 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 
 **Corporate Features**
 
+* Business plan
 * Accounting
 * Capital
 * Hiring or HR
 * Cultivating culture
 * Customer Service 
+
+**Strategic**
+
+* Analyze competition
+
+
 
 
 
